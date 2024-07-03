@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-i-h-a-l" alt="n-i-h-a-l" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Web3**
 
 - 📫 How to reach me **nihalkumar9749@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p-Zg-_cCuOqxjeqfijOsRv0OC5fiu5jw/view?usp=drive_link](https://drive.google.com/file/d/1p-Zg-_cCuOqxjeqfijOsRv0OC5fiu5jw/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_vDHX0ZHzfm2yBOtC1xo-5GPzebM2wRA/view?usp=drivesdk](https://drive.google.com/file/d/1_vDHX0ZHzfm2yBOtC1xo-5GPzebM2wRA/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
