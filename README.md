@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **nihalkumar9749@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_vDHX0ZHzfm2yBOtC1xo-5GPzebM2wRA/view?usp=drivesdk](https://drive.google.com/file/d/1_vDHX0ZHzfm2yBOtC1xo-5GPzebM2wRA/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_vDHX0ZHzfm2yBOtC1xo-5GPzebM2wRA/view?usp=drivesdk](https://drive.google.com/file/d/1imb68m_iYd46fNe5V0QQuhiF6w4LJWy4/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nihal-baranwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihalbaranwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nihalbaranwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihalbaranwal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nihalbaranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihalbaranwal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nihalbaranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nihalbaranwal" height="30" width="40" /></a>
 </p>
